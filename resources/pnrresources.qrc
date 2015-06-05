@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>icons/packnroll24.png</file>
+        <file>icons/packnroll128.png</file>
+    </qresource>
+</RCC>

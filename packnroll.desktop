@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=PacknRoll
+GenericName=PacknRoll
+Comment=Pack n' Roll make the packaging process easy
+Comment[en_US]=Pack n' Roll make the packaging process easy
+Comment[en_GB]=Pack n' Roll make the packaging process easy
+Comment[pt]=Pack n' Roll faz o processo de empacotamento fácil
+Comment[pt_BR]=Pack n' Roll faz o processo de empacotamento fácil
+Exec=packnroll
+Icon=packnroll
+Terminal=False
+Type=Application
+Categories=System;
