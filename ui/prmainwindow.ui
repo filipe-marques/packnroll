@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="../resources/pnrresources.qrc">
-    <normaloff>:/new/icons/icons/packnroll24.png</normaloff>:/new/icons/icons/packnroll24.png</iconset>
+    <normaloff>:/new/icons/icons/packnroll128.png</normaloff>:/new/icons/icons/packnroll128.png</iconset>
   </property>
   <widget class="QWidget" name="centralWidget">
    <widget class="QTabWidget" name="tabWidget">

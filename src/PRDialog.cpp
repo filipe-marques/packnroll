@@ -27,7 +27,7 @@ PRDialog::PRDialog(QWidget *parent) :
     QDialog(parent), ui(new Ui::PRDialog)
 {
     ui->setupUi(this);
-    this->setWindowTitle("About: Pack n' Roll");
+    this->setWindowTitle("About Pack n' Roll");
     this->setMaximumSize(560,287);
     this->setMinimumSize(560,287);
 }

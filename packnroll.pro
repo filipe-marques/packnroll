@@ -22,7 +22,7 @@
 
 QT       += core gui widgets
 
-TARGET = packnroll
+TARGET = PacknRoll
 TEMPLATE = app
 CONFIG += c++11
 CONFIG += release
@@ -47,12 +47,6 @@ unix {
 
     desk.path = /usr/share/applications/packnroll
     desk.files = packnroll.desktop
-
-    icon24.path = /usr/share/icons/packnroll
-    icon24.files = resource/icons/packnroll24.png
-
-    icon24_2.path = /usr/share/icons/hicolor/24x24/apps/packnroll
-    icon24_2.files = resource/icons/packnroll24.png
 
     icon128.path = /usr/share/icons/hicolor/128x128/apps/packnroll
     icon128.files = resource/icons/packnroll128.png
