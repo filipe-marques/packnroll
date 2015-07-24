@@ -42,17 +42,17 @@ FORMS   +=  ui/prmainwindow.ui \
 RESOURCES += resources/pnrresources.qrc
 
 # Installation on Linux
-unix {
-    target.path = /usr/bin/packnroll
-
-    desk.path = /usr/share/applications/packnroll
-    desk.files = packnroll.desktop
-
-    icon128.path = /usr/share/icons/hicolor/128x128/apps/packnroll
-    icon128.files = resource/icons/packnroll128.png
-
-    license.path = /usr/share/licenses/packnroll/LICENSE
-    license.files = LICENSE
-
-    INSTALLS += target desk icon24 icon24_2 icon128 license
-}
+#unix {
+#    target.path = /usr/bin/packnroll
+#
+#    desk.path = /usr/share/applications/packnroll
+#    desk.files = packnroll.desktop
+#
+#    icon128.path = /usr/share/icons/hicolor/128x128/apps/packnroll
+#    icon128.files = resource/icons/packnroll128.png
+#
+#    license.path = /usr/share/licenses/packnroll/LICENSE
+#    license.files = LICENSE
+#
+#    INSTALLS += target desk icon24 icon24_2 icon128 license
+#}
